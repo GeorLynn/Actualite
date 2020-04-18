@@ -1,12 +1,18 @@
-# JAVAFX LOGIN UI DESIGN WITH MYSQL DB INTERGRATION
+# JAVAFX PIDEV JAVA Esprit
 
-Focus areas
 
-- UI Design
-- DB integration
-- Insert - Retrieve
 
-A simple sample to get you started.
+- Gestion d'utilisateur
+ 
+les bibliothèques utilisé pour la gestion d'utilisateur la base de données (meme pour sprint web ) 
+
+
+
+- https://send.firefox.com/download/ab8431b6e3abc7ec/#vCooZLdOYLdfLqLCU36HkA
+ 
+
+
+
 
 ![](https://github.com/manforce001/sprintJava/blob/master/img.JPG)
 
